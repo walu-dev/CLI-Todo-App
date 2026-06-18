@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Study Python",
+        "completed": false
+    },
+    {
+        "title": "Build API",
+        "completed": true
+    },
+    {
+        "title": "Report",
+        "completed": false
+    }
+]
